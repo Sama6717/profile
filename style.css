@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,300&display=swap');
+
+body {
+    font-family: 'sans-serif';
+    font: size 30px;;
+    background-color: #EEEEEE;
+    color: #4d6f81;
+   
+}
+
+h1 {
+    font-family: 'sans-serif';
+    font: size 10px;
+    color:#00978b;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #00978b;
+
+}
+a:hover {
+    color: #22552b;
+
+}
+
+.card-white{
+    background-color: white;
+    padding: 24px;
+    box-shadow:0 5px 15px rgba(206, 202, 202, 0.787) ;
+    text-align: center;
+    width: 500px;
+    margin: 24px auto;
+    border-radius: 4px;
+    
+}
+
+.img-circle {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
+  .list-inline  {
+    background-color: white;
+    padding: 24px;
+    box-shadow:0 5px 15px rgba(206, 202, 202, 0.787) ;
+    text-align: center;
+    padding: 24px ;
+    width: 500px;
+    margin: 24px auto;
+    font-style: large;
+    
+    
+  }
+  .list-inline li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 20px;
+    font-weight: lighter;
+    font-size: 17px;
+  }
+  
+
+  .btn-blue {
+      background-color: rgb(84, 143, 115);
+      color: white;
+      padding:8px 24px ;
+      box-shadow: 0 15px 24px;
+      border-radius: 8px;
+  }
+
+  .btn-blue:hover {
+    background-color: rgb(201, 219, 219);
+    padding:8px 24px;
+    
+  }
+  
